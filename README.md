@@ -3,7 +3,9 @@
 ## Build 
 
 Download the spigot.jar version 1.12.2 and rename it to "spigot.jar".
-Build the project in Intelij Ideas= and add spigot.jar to library and build the plugin to jar.
+Create a folder for your server.
+Build the project in IntelliJ IDEA , add spigot.jar to library and build the plugin to jar.
+Paste the output jar in "plugins" folder in your server folder.
 
 ## Run
 
