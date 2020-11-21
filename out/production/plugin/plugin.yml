@@ -1,0 +1,15 @@
+name: PvP
+version: 1.0
+description: simple pvp minecraft
+main: fr.jules.pvp.MainPlugin
+commands:
+    change:
+        description: change location
+    start:
+        description: start pvp
+    stop:
+        description: stop pvp
+    pvp:
+        description: help command
+    reset:
+        description: restart pvp
